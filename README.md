@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vorvit&label=Profile%20views&color=0e75b6&style=flat" alt="vorvit" /> </p>
 
-- 🌱 I’m currently learning **DS, Python, JS, C#, BIM**
+- 🌱 I’m currently learning **ML, Python, Linux, JS, С, C++, C#, BIM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
